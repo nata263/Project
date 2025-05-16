@@ -1,2 +1,0 @@
-# progdas1
-koding
